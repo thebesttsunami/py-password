@@ -11,13 +11,6 @@
 ## 🚀 Menjalankan Kode
 
 ### Python
-```bash
-python py-password.py
-```
+```python py-password.py```
 ### javacript
 ```node js-password.js```
-
-├── py-password.py     # Generator password dengan Python
-├── js-password.js     # Generator password dengan JavaScript
-└── README.md          # Dokumentasi project
-
