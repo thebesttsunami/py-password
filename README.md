@@ -13,6 +13,9 @@
 ### Python
 ```bash
 python py-password.py
+```
+### javacript
+```node js-password.js```
 
 ├── py-password.py     # Generator password dengan Python
 ├── js-password.js     # Generator password dengan JavaScript
